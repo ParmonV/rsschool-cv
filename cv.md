@@ -1,4 +1,4 @@
-[rsschool-cv](https:address)
+[rsschool-cv](https://github.com/ParmonV/rsschool-cv)
 ---
 Vova Parmon
 ---
@@ -18,11 +18,9 @@ Skills
 * HTML
 * CSS
 * Git/GitHub
-* JavaScript
-* Python
-* Django
-* Flask
-
+* Python, JavaScript
+* Django, Flask
+  
 Code Example
 ---
 ```
@@ -34,9 +32,9 @@ Education
 ---
 * University: Belarusian National Technical University, Managment
 * Courses:
-  *
-  *
-  *
+  * Python Course - Stepic.org
+  * SQL - Stepic.org
+  * HTML and CSS Tutorials on the w3schools
 Languages
 ---
 * Russian - Native
