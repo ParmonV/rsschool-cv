@@ -1,5 +1,6 @@
 [rsschool-cv](https://github.com/ParmonV/rsschool-cv)
 ---
+
 Vova Parmon
 ---
 Contacts
@@ -13,6 +14,7 @@ About Me
 ---
 I like to learn new things. My main strengths are fast learning and high motivation.
 I want to acquire knowledge and skills that will be sufficient to work as a programmer.
+
 Skills
 ---
 * HTML
@@ -35,6 +37,7 @@ Education
   * Python Course - Stepic.org
   * SQL - Stepic.org
   * HTML and CSS Tutorials on the w3schools
+
 Languages
 ---
 * Russian - Native
